@@ -1,0 +1,46 @@
+HR department needs an app to store a list of employees
+
+The application should have 5 pages:
+
+1. List of all employees
+2. View one employee
+3. Home (Dashboard)
+4. Add page
+5. Edit page
+
+For each employee, you need to store the following data:
+
+- Full name (string)
+- Department (must be dropdown) Total 3 departments: accounting, IT, marketing
+- Position
+(string)
+- Gender (use radio button)
+- Date of birth (date)
+
+1. List page of all employees
+- list of all employees with pagination
+- filter by department and / or gender
+2. Page view of one employee
+- All employee data
+- Editing employee (all fields)
+- Deleting an employee
+3. Home page (Dashboard)
+- The number of all employees
+- Number of men
+- Number of women
+- The number of employees in each department
+- Average age of an employee in the company
+
+Requirements-
+
+Use:
+- JavaScript
+- React
+- React Router
+- Axios
+- Localstorage for storing data
+- Tailwind CSS | Bootstrap
+
+Source code should be stored in Github. 
+Please, commit all your changes in Github. It will be plus. 
+
